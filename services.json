@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "nombre": "Diseño web",
+        "descripcion": "Creación de sitios web atractivos y funcionales.",
+        "categoria": "Diseño",
+        "precio": 500,
+        "moneda": "USD"
+    },
+    {
+        "id": 2,
+        "nombre": "Diseño de logo",
+        "descripcion": "Diseño de logotipos personalizados para tu marca.",
+        "categoria": "Diseño",
+        "precio": 200,
+        "moneda": "USD"
+    },
+    {
+        "id": 3,
+        "nombre": "Programación de aplicaciones",
+        "descripcion": "Desarrollo de aplicaciones a medida para tus necesidades.",
+        "categoria": "Desarrollo",
+        "precio": 1000,
+        "moneda": "USD"
+    },
+    {
+        "id": 4,
+        "nombre": "Marketing digital",
+        "descripcion": "Estrategias de marketing en línea para aumentar la visibilidad de tu negocio.",
+        "categoria": "Marketing",
+        "precio": 800,
+        "moneda": "USD"
+    },
+    {
+        "id": 5,
+        "nombre": "Gestión de redes sociales",
+        "descripcion": "Administración profesional de tus redes sociales.",
+        "categoria": "Marketing",
+        "precio": 300,
+        "moneda": "USD"
+    },
+    {
+        "id": 6,
+        "nombre": "SEO",
+        "descripcion": "Optimización para motores de búsqueda y mejoras en la visibilidad web.",
+        "categoria": "Marketing",
+        "precio": 500,
+        "moneda": "USD"
+    },
+    {
+        "id": 7,
+        "nombre": "Desarrollo de comercio electrónico",
+        "descripcion": "Creación de tiendas en línea para vender tus productos.",
+        "categoria": "Desarrollo",
+        "precio": 1200,
+        "moneda": "USD"
+    },
+    {
+        "id": 8,
+        "nombre": "Servicios de hosting",
+        "descripcion": "Hospedaje web confiable y seguro para tu sitio.",
+        "categoria": "Hosting",
+        "precio": 100,
+        "moneda": "USD"
+    },
+    {
+        "id": 9,
+        "nombre": "Diseño de interfaces de usuario",
+        "descripcion": "Creación de interfaces de usuario atractivas y fáciles de usar.",
+        "categoria": "Diseño",
+        "precio": 400,
+        "moneda": "USD"
+    },
+    {
+        "id": 10,
+        "nombre": "Desarrollo de aplicaciones móviles",
+        "descripcion": "Creación de aplicaciones móviles para iOS y Android.",
+        "categoria": "Desarrollo",
+        "precio": 1500,
+        "moneda": "USD"
+    },
+    {
+        "id": 11,
+        "nombre": "Consultoría tecnológica",
+        "descripcion": "Asesoramiento experto en tecnología para optimizar tus procesos.",
+        "categoria": "Consultoría",
+        "precio": 600,
+        "moneda": "USD"
+    },
+    {
+        "id": 12,
+        "nombre": "Diseño de UX/UI",
+        "descripcion": "Diseño de experiencia de usuario (UX) y diseño de interfaz de usuario (UI).",
+        "categoria": "Diseño",
+        "precio": 700,
+        "moneda": "USD"
+    },
+    {
+        "id": 13,
+        "nombre": "Mantenimiento y soporte técnico",
+        "descripcion": "Servicios de mantenimiento y asistencia técnica para tu sitio o aplicación.",
+        "categoria": "Soporte",
+        "precio": 200,
+        "moneda": "USD"
+    },
+    {
+        "id": 14,
+        "nombre": "Desarrollo de software personalizado",
+        "descripcion": "Desarrollo de software a medida para satisfacer tus necesidades específicas.",
+        "categoria": "Desarrollo",
+        "precio": 1500,
+        "moneda": "USD"
+    },
+    {
+        "id": 15,
+        "nombre": "Seguridad de la información",
+        "descripcion": "Protección de datos y seguridad de la información para tu negocio.",
+        "categoria": "Seguridad",
+        "precio": 900,
+        "moneda": "USD"
+    }
+]
